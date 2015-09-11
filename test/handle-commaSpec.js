@@ -6,7 +6,6 @@ describe('handle-comma.js test', function(){
 	});
 
 	it('', () => {
-		expect(image.getUrl()).toEqual('');
 	});
 
 	afterEach(() => {});
